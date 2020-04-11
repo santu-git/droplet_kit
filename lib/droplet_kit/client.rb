@@ -54,7 +54,8 @@ module DropletKit
         projects: ProjectResource,
         volumes: VolumeResource,
         volume_actions: VolumeActionResource,
-        vpcs: VPCResource
+        vpcs: VPCResource,
+        invoices: InvoiceResource
       }
     end
 
